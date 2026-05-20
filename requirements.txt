@@ -1,4 +1,4 @@
 python-telegram-bot==20.7
-srt==3.3.1
+srt
 korail2
 httpx==0.24.1
